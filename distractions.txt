@@ -10,10 +10,9 @@
 ||x.com^
 ||instagram.com^
 ||clashofclans.com^
-||animepahe.*
 ||spotifycdn.com^
 ||spotify.com^
 ||spotifycdn.com^
 ||scdn.com^
-||audio-ak-spotify-com.akamaized.net
-||audio-ake.spotify.com.edgesuite.net
+audio-ak-spotify-com.akamaized.net
+audio-ake.spotify.com.edgesuite.net
