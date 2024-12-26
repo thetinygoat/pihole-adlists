@@ -11,5 +11,5 @@
 ||x.com^
 ||instagram.com^
 ||clashofclans.com^
-||animepahe
+||animepahe*
 ||spotifycdn.com^
