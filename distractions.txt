@@ -1,0 +1,14 @@
+[Adblock Plus]
+! Title: Sachin's Blocklist
+! Description: Blocks distractions and other social crap
+! Syntax: AdBlock
+
+||youtube.com^
+||twitter.com^
+||linkedin.com^
+||snapchat.com^
+||spotify.com^
+||x.com^
+||instagram.com^
+||clashofclans.com^
+||animepahe
